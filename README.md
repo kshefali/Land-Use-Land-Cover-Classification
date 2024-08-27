@@ -1,1 +1,1 @@
-# Land-Use-Land-Cover-Classification
+# land-use-land-cover
